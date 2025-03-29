@@ -4,6 +4,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+@keyframes gradientAnimation {
+    0% {
+        background: linear-gradient(135deg, #ff6347, #f9a825);
+    }
+    50% {
+        background: linear-gradient(135deg, #f9a825, #d32f2f);
+    }
+    100% {
+        background: linear-gradient(135deg, #d32f2f, #ff6347);
+    }
+}
+
+body {
+    animation: gradientAnimation 10s ease infinite; /* Animation lasts 10 seconds and loops infinitely */
+}
 
 /* Body */
 body {
@@ -49,7 +64,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     background: url('images/hero-bg.jpg') no-repeat center center/cover;
-    color: blue;
+    color: red;
     text-align: center;
     padding: 100px 20px;
 }
