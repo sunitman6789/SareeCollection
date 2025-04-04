@@ -6,16 +6,13 @@
 }
 @keyframes gradientAnimation {
     0% {
-        background: linear-gradient(135deg, #ffe0b2, #ffd700);
-  font-family: 'Poppins', sans-serif;
+        background: linear-gradient(to right, #ffe4e1, #fffaf0);
     }
     50% {
-        background: linear-gradient(135deg, #ffe0b2, #ffd700);
-  font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #f9a825, #d32f2f);
     }
     100% {
-        background: linear-gradient(135deg, #ffe0b2, #ffd700);
-  font-family: 'Poppins', sans-serif;
+        background: linear-gradient(to right, #ffe4e1, #fffaf0);
     }
 }
 
@@ -25,16 +22,16 @@ body {
 
 /* Body */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #ffe4e1;
-    color: #e0f7e9;
-    line-height: 4.6;
+ font-family: Arial, sans-serif;
+  background-color: #ffe4e1;
+  color: #4a4a4a;
+  line-height: 1.8;
 }
 
 /* Header Section */
 header {
     background-color: #fdf6ee;
-    color: Gold accents;
+    color: Maroon;
     padding: 10px 0;
     text-align: center;
 }
