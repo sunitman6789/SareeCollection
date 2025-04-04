@@ -25,7 +25,7 @@ body {
  font-family: Arial, sans-serif;
   background-color: bottle green;
   color: yellow;
-  line-height: 1.8;
+  line-height: 2.8;
 }
 
 /* Header Section */
@@ -51,7 +51,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: yellow;
+    color: blue;
     text-decoration: none;
     font-size: 1.2rem;
     transition: color 0.3s ease;
