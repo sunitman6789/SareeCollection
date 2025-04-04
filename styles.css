@@ -24,14 +24,14 @@ body {
 body {
  font-family: Arial, sans-serif;
   background-color: bottle green;
-  color: yellow;
+  color: blue;
   line-height: 2.8;
 }
 
 /* Header Section */
 header {
     background-color: #006A4E;
-    color: blue;
+    color: yellow;
     padding: 10px 0;
     text-align: center;
 }
