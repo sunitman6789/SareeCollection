@@ -6,13 +6,16 @@
 }
 @keyframes gradientAnimation {
     0% {
-        background: linear-gradient(135deg, #ff6347, #f9a825);
+        background: linear-gradient(135deg, #ffe0b2, #ffd700);
+  font-family: 'Poppins', sans-serif;
     }
     50% {
-        background: linear-gradient(135deg, #f9a825, #d32f2f);
+        background: linear-gradient(135deg, #ffe0b2, #ffd700);
+  font-family: 'Poppins', sans-serif;
     }
     100% {
-        background: linear-gradient(135deg, #d32f2f, #ff6347);
+        background: linear-gradient(135deg, #ffe0b2, #ffd700);
+  font-family: 'Poppins', sans-serif;
     }
 }
 
