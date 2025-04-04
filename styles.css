@@ -17,14 +17,14 @@
 }
 
 body {
-    animation: gradientAnimation 10s ease infinite; /* Animation lasts 10 seconds and loops infinitely */
+    animation: gradientAnimation 5s ease infinite; /* Animation lasts 10 seconds and loops infinitely */
 }
 
 /* Body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #b3cde0;
-    color: #333;
+    background-color: skyblue;
+    color: orange;
     line-height: 1.6;
 }
 
